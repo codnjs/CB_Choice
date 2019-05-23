@@ -16,5 +16,10 @@ namespace CB_Choice
         {
             InitializeComponent();
         }
+
+        private void LblResult_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
